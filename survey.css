@@ -1,0 +1,54 @@
+#body {
+    background-color: lightslategrey
+}
+
+#form {
+    background-color: aliceblue;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+#info {
+    font-size: x-large;
+    border: 5px solid goldenrod;
+}
+
+#table {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 2px solid white;
+    width: 800px;
+}
+
+td {
+    padding: 10px;
+}
+
+td :hover {
+    background-color: lemonchiffon;
+    color: black;
+}
+
+td :focus {
+    border: 5px solid red;
+}
+
+#head {
+    background-color: white;
+    text-decoration: wavy;
+}
+
+#textArea {
+    overflow: scroll;
+    height: 100px;
+    width: 400px;
+}
+
+.fa-twitter {
+    color: white;
+}
+
+#area {
+    padding-inline-start: 10px;
+}
